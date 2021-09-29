@@ -6,7 +6,6 @@ We learned Unity!
 We built a 3D art gallery with Unity! Neither of us had ever (successfully) used Unity before. The goal was to build a series of rooms that you can walk through (and hear your footsteps) and view different peices of artwork on the walls. We implemented a 3D model, first person character (using the All In One Pack), different surfaces for you to walk on (and different accompanying footstep sounds), put art work on the walls, and finally also included descriptions of the artwork & the artist that appears only when you walk up to the specific piece of art.
 
 Here are some screenshots of our project!
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
 A birds eye view of our 3D art museum:
 <img width="1021" alt="Screen Shot 2021-09-29 at 14 30 00" src="https://user-images.githubusercontent.com/58890794/135331882-35a731e2-e2cd-4eb0-92b6-338e40a252f6.png">
