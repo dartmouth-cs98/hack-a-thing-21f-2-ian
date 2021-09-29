@@ -19,7 +19,7 @@ The first piece of art we added:
 Artwork with the matching description script that popped up when we got close to the image:
 <img width="1025" alt="Screen Shot 2021-09-29 at 14 40 49" src="https://user-images.githubusercontent.com/58890794/135331945-3c3ba118-fd35-45e7-9874-81833a5d81f3.png">
 
-Tim, on the wall:
+Tim, on the wall:  
 <img width="1787" alt="Screen Shot 2021-09-29 at 14 57 14" src="https://user-images.githubusercontent.com/58890794/135331955-07426f7e-7cce-4f9f-b223-698c9b67ec58.png">
 
 Tim & his disciples:
