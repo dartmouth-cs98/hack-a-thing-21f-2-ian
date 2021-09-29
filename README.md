@@ -22,6 +22,10 @@ Artwork with the matching description script that popped up when we got close to
 Tim, on the wall:
 <img width="1787" alt="Screen Shot 2021-09-29 at 14 57 14" src="https://user-images.githubusercontent.com/58890794/135331955-07426f7e-7cce-4f9f-b223-698c9b67ec58.png">
 
+Tim & his deciples:
+<img width="746" alt="Screen Shot 2021-09-29 at 15 06 29" src="https://user-images.githubusercontent.com/58890794/135332940-f2b214ec-83bf-4f65-9c26-25529f044160.png">
+
+<img width="738" alt="Screen Shot 2021-09-29 at 15 07 36" src="https://user-images.githubusercontent.com/58890794/135332988-48d93b6a-4c32-4436-9a37-97e8e363ee67.png">
 
 ## Who Did What?
 
