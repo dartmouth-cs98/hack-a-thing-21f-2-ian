@@ -8,6 +8,22 @@ We built a 3D art gallery with Unity! Neither of us had ever (successfully) used
 Here are some screenshots of our project!
 [How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
+A birds eye view of our 3D art museum:
+<img width="1021" alt="Screen Shot 2021-09-29 at 14 30 00" src="https://user-images.githubusercontent.com/58890794/135331882-35a731e2-e2cd-4eb0-92b6-338e40a252f6.png">
+
+The welcoming lobby where the game begins:
+<img width="1792" alt="Screen Shot 2021-09-29 at 14 29 45" src="https://user-images.githubusercontent.com/58890794/135331898-581a02c4-7193-4ff5-80ac-69868e9106ef.png">
+
+The first piece of art we added:
+<img width="1792" alt="Screen Shot 2021-09-29 at 14 34 34" src="https://user-images.githubusercontent.com/58890794/135331936-4f9f870b-6958-4408-bdde-95fa9870006f.png">
+
+Artwork with the matching description script that popped up when we got close to the image:
+<img width="1025" alt="Screen Shot 2021-09-29 at 14 40 49" src="https://user-images.githubusercontent.com/58890794/135331945-3c3ba118-fd35-45e7-9874-81833a5d81f3.png">
+
+Tim, on the wall:
+<img width="1787" alt="Screen Shot 2021-09-29 at 14 57 14" src="https://user-images.githubusercontent.com/58890794/135331955-07426f7e-7cce-4f9f-b223-698c9b67ec58.png">
+
+
 ## Who Did What?
 
 We pair coded and took turns typing as we worked through the tutorial.
@@ -18,7 +34,7 @@ We learned a lot about the way Unity organizes different components, and all of 
 
 ## Authors
 
-Ian Hou
+Ian Hou &
 Sasha Rich
 
 ## Acknowledgments
